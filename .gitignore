@@ -4,3 +4,4 @@ datasets/
 .env/
 .env
 notes/imdb_model/
+notes/my_bert
