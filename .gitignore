@@ -6,3 +6,4 @@ datasets/
 notes/imdb_model/
 notes/my_bert
 notes/my_gpt2_sft_alpaca
+rome_gpt/
